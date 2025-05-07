@@ -1,4 +1,4 @@
-# Terminal MP3 Player With Bookmark Management
+# devfi - Terminal MP3 Player With Bookmark Management
 
 This project is a keyboard driven terminal-based MP3 player written in Go, designed for podcast and audiobook enthusiasts. Its standout feature is persistent bookmarking functionality, allowing you to save and resume playback positions across sessions.
 The user interface is powered by [BubbleTea](https://github.com/charmbracelet/bubbletea)
